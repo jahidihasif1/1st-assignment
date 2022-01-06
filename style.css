@@ -19,7 +19,7 @@ body{
     color: orange;
 }
 .ex-area img {
-    width: 60%;
+    width: 70%;
 }
 .text-area {
     border-left: 4px solid red;
@@ -39,7 +39,7 @@ body{
     font-size: 15px;
     font-weight: 700px;
     color: white;
-    background-color: #E74C3C;
+    background-color: #463CDE;
     padding: 10px 30px;
     border-radius: 6px;
 }
@@ -91,7 +91,7 @@ body{
     font-size: 23px;
 }
 .mid-mission p {
-    font-size: 14px;
+    font-size: 15px;
 }
 .third-left{
     width: 30%;
@@ -124,6 +124,37 @@ body{
 }
 .forth-text h2 {
     font-size: 35px;
+}
+.extra-text {
+    width: 100%;
+    text-align: center;
+    margin-top: 80px;
+}
+.extra-text h4 {
+    color: orange;
+    font-size: 20px;
+}
+.extra-text h2 {
+    color: #000066;
+    font-size: 35px;
+    line-height: 10px;
+}
+.seo {
+    width:33%;
+    height: 350px;
+    margin: 10px 20px;
+    padding: 20px;
+    border: 1px solid #463CDE;
+    border-radius: 20px;
+    box-shadow: 6px 6px #463CDE;
+}
+.seo h4{
+    font-size: 20px;
+    color: #000066;
+}
+.seo p{
+    font-size: 15px;
+    height: 210px;
 }
 .foot-color{
     width: 100%;
